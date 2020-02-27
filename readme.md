@@ -1,6 +1,6 @@
 Hi.
 
-IMO, you simply cannot measure quality of any developer by the amount of his/hers commits.
+IMO, you simply cannot measure quality of any developer by the amount of his/her commits.
 
 Have a nice day :-)
 
